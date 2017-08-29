@@ -44,7 +44,7 @@ This has the following benefits:
 
 #### Pay attention 
 
-next text will not provide English text that because the *PVPIN* was not have English page, only simplified Chinese. Because the *PVPIN* is just for Chinese Minecraft Players to use, if you really want use it by English,please contact us! we will communicate this thing. You can contact us by "QQ" or "Mail".But in the end we have a Copyright statement. (if you want to use this Runtime, that please read it)
+next text will not provide English text that because the *PVPIN* was not have English page, only simplified Chinese. Because the *PVPIN* is just for Chinese Minecraft Players to use, if you really want use it by English, please contact us! we will communicate this thing. You can contact us by "QQ" or "Mail". But in the end we have a Copyright statement. (if you want to use this Runtime, that please read it)
 
 QQ number: 4740281 (Gang Ma)
 
@@ -90,7 +90,9 @@ Mail: mailto:gangma@foxmail.com (Gang Ma)
 
 ![连接2](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_2_2.png)
 
-关于开服更详细的介绍请看czfy和aria的教程。 [http://bbs.pvpin.com/topic/217](http://bbs.pvpin.com/topic/217)
+关于开服更详细的介绍请看czfy和aria的教程。 
+
+[http://bbs.pvpin.com/topic/217](http://bbs.pvpin.com/topic/217)
 
 #### 如何下载和运行在*PVPIN*上开发的插件？
 
@@ -109,6 +111,7 @@ Mail: mailto:gangma@foxmail.com (Gang Ma)
 ![](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_5.png)
 
 这时你有两个选择，下载jar包或者只下载js文件。如果你是第一下载请下载jar包。因为这里包含了pvpin的js运行环境。
+
 将你下载好的插件放进plugins目录下。
 
 ![](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_6.png)
@@ -135,8 +138,11 @@ GPL v2 开源协议
 
 
 This project uses GPL V2 open source protocol for production, please follow this agreement in the relevant operations!
+
 if it is for commercial use, please declare copyright at the relevant location!
+
 Copyright 2017 PVPIN.com
+
 thanks again for your reading!
 
 		
