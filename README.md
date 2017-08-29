@@ -11,7 +11,7 @@ __用拼积木的方式开发Minecraft插件__
 
 # Pay attention 
 
-the English text in this Readme are not so well, because this is the Machine Translation. So, if you have any do not understand that I hope you can forgive me, and if you can help me to improvement the text in Engilish that I’d like to thank you first, please mail me. [Well, cilck here](mailto:i@timewk.cn).
+the English text in this Readme are not so well, because this is the Machine Translation. So, if you have any do not understand that I hope you can forgive me, and if you can help me to improvement the text in Engilish that I’d like to thank you first, please mail me. [Well, click here](mailto:i@timewk.cn).
  
 ### 这是什么 
 ### What is this?
@@ -33,7 +33,8 @@ Because the Java runtime environment has a JavaScript engine, you can run the Ja
 这样做有以下几个好处：
 
 * 更简单，javascript是一门比java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
-* javascript本身是一门性价比高的语言，值得一学。性 ＝用途广泛性（跨前后端与各种平台），价 ＝学习的代价（耗费时间与难易程度）
+* 互用性，好处是可以被修改和使用在服务器运行中的代码。
+* javascript本身是一门性价比高的语言，值得一学。性＝用途广泛性（跨前后端与各种平台），价＝学习的代价（耗费时间与难易程度）
 
 This has the following benefits:
 * JavaScript is a more simple language than JAVA. Learn faster, write the same function, and take less time;
@@ -46,7 +47,7 @@ This has the following benefits:
 
 next text will not provide English text that because the *PVPIN* was not have English page, only simplified Chinese. Because the *PVPIN* is just for Chinese Minecraft Players to use, if you really want use it by English, please contact us! we will communicate this thing. You can contact us by "QQ" or "Mail". But in the end we have a Copyright statement. (if you want to use this Runtime, that please read it)
 
-QQ number: 4740281 (Gang Ma)
+QQ member: 4740281 (Gang Ma)
 
 Mail: mailto:gangma@foxmail.com (Gang Ma)
 
