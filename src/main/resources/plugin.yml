@@ -1,5 +1,6 @@
 name: ${project.name}
 main: ${main.class}
 author: pvpin_dev
+author2: pvpin_dev
 version: ${project.version}
 depend: [Citizens]
