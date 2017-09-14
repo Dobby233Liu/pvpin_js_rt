@@ -13,18 +13,18 @@ __用拼积木的方式开发Minecraft插件__
 
 # Pay attention 
 
-the English text in this Readme are not so well, because this is the Machine Translation. So, if you have any do not understand that I hope you can forgive me, and， if you can help me to improvement the text in Engilish that I will thank you, please mail me. [Well, click here](mailto:i@timewk.cn).
+the English text in this README are not so well, because this is the Machine Translation. If you're not understand this that I hope you can forgive me, and, if you can help me to improvement the text in Engilish that I will thank you. [Well, click here to help me](mailto:i@timewk.cn).
 
-# Improvementer, maybe
+## Improvementer, maybe
 
 [Dobby233Liu](/Dobby233Liu)
  
 ### 这是什么 
 ### What is this?
 
-这是*PVPIN*，一个基于JavaScript实现编写JAVA语言用于“我的世界”/“Minecraft”中的Bukkit服务端插件的一个网站，中等运行环境时(也就是前端)的源代码。
+这是*PVPIN*，一个基于JavaScript实现编写JAVA语言用于“我的世界”/“Minecraft”中的Bukkit服务端插件的一个网站使用的中等运行环境时(也就是前端)的源代码。
 
-This is *PVPIN*, one based on JavaScript implementation develop by JAVA of the Minecraft's Bukkit server plugins, and this are orignal RunTime source. 
+This is *PVPIN*, one based on JavaScript to write some JAVA code and using in the Minecraft's Bukkit server plugins, and this are orignal RunTime source. 
 
 
 #### 为什么可以使用javascript开发java版的Minecraft插件？
