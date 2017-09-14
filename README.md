@@ -56,7 +56,7 @@ You can contact us by "QQ" or "Mail". But we have a Copyright statement.
 
 QQ member: 4740281 (Gang Ma)
 
-Mail: mailto:gangma@foxmail.com (Wa Dang)
+Mail: [There](mailto:gangma@foxmail.com) (Wa Dang)
 
 在此之前，你需要拥有一个PVPIN账号来编写插件，详细的规则请查看PVPIN内的相关帮助。
 
@@ -73,7 +73,7 @@ Mail: mailto:gangma@foxmail.com (Wa Dang)
 
 * plugins 目录：这里就是放插件的地方。这里已经放了一个NPC插件 citizens-2.0.21-SNAPSHOT，*PVPIN*的NPC功能直接调用了这个插件。
 * server.properties ：这是服务器的配置文件。你可以根据自己的需要修改，然后重启就可以生效。简要的说一下其中的几个配置：      
-    * `pvp=true`：玩家之间是否可以对战。
+    * `pvp=true`：玩家之间是否可以对战。\
     * `difficulty=1`：游戏难度，0是和平模式，1是容易，2是正常，3是困难。
     * `gamemode=0`：游戏模式，0生存，1创造，2冒险。
     * `motd=A Minecraft Server`：motd是每日消息（Message Of The Day）的英文缩写，就是玩家在服务器列表上看到的消息。
