@@ -62,7 +62,7 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 一、获取服务端包。
 
-这里有一个简单的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)。
+>! 这里有一个简单的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)。
 		
 		
 下载后解压：
