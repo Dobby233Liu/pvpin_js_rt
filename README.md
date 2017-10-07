@@ -11,11 +11,11 @@ __用拼积木的方式开发Minecraft插件__
 
 #### introduce
 
-# Pay attention 
+### Pay attention 
 
 All English text in this README are not so well, because this is just used machines to translation. If you're not really understand that all, I'm hope you can forgive me, and, if you can help me to improvement this, that I will thank you. [Well, click here to help me](mailto:i@timewk.cn).
 
-# Improvementer, maybe
+#### Improvementer, maybe
 
 [Dobby233Liu](https://github.com/Dobby233Liu)
  
