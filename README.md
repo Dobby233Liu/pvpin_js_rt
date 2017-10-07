@@ -4,7 +4,7 @@
  
 __用拼积木的方式开发Minecraft插件__
 
- Develop Minecraft plugins by building blocks like play.
+ Developing Minecraft plugins by building blocks like playing Kids' game.
 
 
 ## 介绍 
