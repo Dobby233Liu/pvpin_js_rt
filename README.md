@@ -1,6 +1,6 @@
 # [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
  
- ###### Please note the PVPIN's blocks are base from Google Blockly.
+ ###### Please note the PVPIN's blocks are based from the [Google Blockly](https://github.com/google/blockly).
  
 __用拼积木的方式开发Minecraft插件__
 
@@ -9,26 +9,26 @@ __用拼积木的方式开发Minecraft插件__
 
 ## 介绍 
 
-## <small>introduce</small>
+#### introduce
 
 # Pay attention 
 
-the English text in this README are not so well, because this is the Machine Translation. If you're not understand this that I hope you can forgive me, and, if you can help me to improvement the text in Engilish that I will thank you. [Well, click here to help me](mailto:i@timewk.cn).
+All English text in this README are not so well, because this is just used machines to translation. If you're not really understand that all, I'm hope you can forgive me, and, if you can help me to improvement this, that I will thank you. [Well, click here to help me](mailto:i@timewk.cn).
 
-## Improvementer, maybe
+# Improvementer, maybe
 
-[Dobby233Liu](/Dobby233Liu)
+[Dobby233Liu](https://github.com/Dobby233Liu)
  
 ### 这是什么 
-### What is this?
+##### What is this?
 
 这是*PVPIN*，一个基于JavaScript实现编写JAVA语言用于“我的世界”/“Minecraft”中的Bukkit服务端插件的一个网站使用的中等运行环境时(也就是前端)的源代码。
 
-This is *PVPIN*, one based on JavaScript to write some JAVA code and using in the Minecraft's Bukkit server plugins, and this are orignal RunTime source. 
+This is *PVPIN*, one based on JavaScript to write some JAVA code and using in the Minecraft's Bukkit server plugins, and there are the orignal RunTime source. 
 
 
 #### 为什么可以使用javascript开发java版的Minecraft插件？
-#### Why we can use JavaScript to develop java version of the Minecraft plugins
+###### Why we can use JavaScript to develop java version of the Minecraft plugins
 
 因为java运行环境中有一个javascript引擎，可以运行javascript代码。更重要的是，可以直接在javascript中调用java代码。这样，我们就可以用javascript来写“java”程序。
 
@@ -39,7 +39,7 @@ Because the Java runtime environment have an JavaScript engine, it can run the J
 这样做有以下几个好处：
 
 * 更简单，javascript是一门比java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
-* 互用性，好处是可以被修改和使用在服务器运行中的代码。
+* 互用性，因为是互用性语言，JavaScript可以被修改和使用在服务器运行中的代码。
 * javascript本身是一门性价比高的语言，值得一学。性＝用途广泛性（跨前后端与各种平台），价＝学习的代价（耗费时间与难易程度）
 
 This has the following benefits:
@@ -49,10 +49,10 @@ This has the following benefits:
 
 #### 如何使用它?
 
-#### Pay attention 
+###### Pay attention 
 
-This part will not had English text because the *PVPIN* was not have an English page, only the simplified Chinese. and the *PVPIN* is maken for Chinese Minecraft Players, if you really want use it by English, please contact us! we will communicate this thing. 
-You can contact us by "QQ" or "Mail". But we have a Copyright statement.
+This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can approved. and, the *PVPIN* is just maken for Chinese Minecraft Players, if you really want use it by English, please contact us! We will communicate this thing.                        
+You can contact us by "QQ" or "Mail". But, we have a Copyright statement.
 
 QQ member: 4740281 
 
@@ -62,7 +62,7 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 一、获取服务端包。
 
->! 这里有一个简单的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)。
+> 这里有一个简单的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)
 		
 		
 下载后解压：
@@ -85,9 +85,9 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 #### 连入服务器
 
-* 打开minecraft客户端，选择“多人模式”。
+* 打开Minecraft客户端，选择“多人模式”。
 * 选择添加服务器
-* 填入本地ip地址 127.0.0.1
+* 填入本地ip（127.0.0.1）
 * 然后就可以连入了
 
 ![连接1](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_2_1.png)
@@ -134,9 +134,10 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 如果你要安装第二个插件，只需要下载插件的js文件，然后把js放进这个目录，然后重启服务器即可。不需要重新下载jar包，否则可能会覆盖。
 
-至此，本文已经结束，尽情使用吧！
+至此，本文已经结束。尽情享用吧！
 
-提示：PVPIN的js运行环境会不时更新，请关注网站的更新通知。 
+###### 提示：PVPIN的js运行环境会不时更新，请关注网站的更新通知。 
+
 
 ### GPL v2 开源协议
 
