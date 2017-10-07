@@ -51,7 +51,7 @@ This has the following benefits:
 
 ###### Pay attention 
 
-This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can be approved. and, the *PVPIN* is just maken for Chinese Minecraft Players. if you really want use it by English, please contact us! We will communicate this thing.                        
+This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can be approved. and, the *PVPIN* is just maken for Chinese Minecraft Players. If you really want use *PVPIN* by English, please contact us! We will communicate this thing.                        
 You can contact us by "QQ" or "Mail". But, we have a Copyright statement.
 
 QQ member: 4740281 
@@ -64,7 +64,7 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 
 
-(everyone: \*sigh\*)
+(everyone: \*sigh\* the bugin sucks)
 
 
 
