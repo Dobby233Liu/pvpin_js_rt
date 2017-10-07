@@ -4,7 +4,7 @@
  
 __用拼积木的方式开发Minecraft插件__
 
- Developing Minecraft plugins by building blocks like playing Kids' game.
+ Developing Minecraft plugins by building blocks like playing kids' game.
 
 
 ## 介绍 
@@ -51,12 +51,28 @@ This has the following benefits:
 
 ###### Pay attention 
 
-This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can approved. and, the *PVPIN* is just maken for Chinese Minecraft Players, if you really want use it by English, please contact us! We will communicate this thing.                        
+This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can be approved. and, the *PVPIN* is just maken for Chinese Minecraft Players. if you really want use it by English, please contact us! We will communicate this thing.                        
 You can contact us by "QQ" or "Mail". But, we have a Copyright statement.
 
 QQ member: 4740281 
 
 Mail: [There](mailto:gangma@foxmail.com) 
+
+
+
+
+
+
+
+(everyone: \*sigh\*)
+
+
+
+
+
+
+
+
 
 在此之前，你需要拥有一个PVPIN账号来编写插件，详细的规则请查看PVPIN内的相关帮助。
 
