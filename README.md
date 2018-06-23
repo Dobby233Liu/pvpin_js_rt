@@ -24,7 +24,7 @@ All English text in this README are not so well, because this is just used machi
 
 这是*PVPIN*，一个基于JavaScript实现编写JAVA语言用于“我的世界”/“Minecraft”中的Bukkit服务端插件的一个网站使用的中等运行环境时(也就是前端)的源代码。
 
-This is *PVPIN*, one based on JavaScript to write some JAVA code and using in the Minecraft's Bukkit server plugins, and there are the orignal RunTime source. 
+This is *PVPIN*, one based on JavaScript to write some Java code and using in the Minecraft's Bukkit server plugins, and there are the orignal runtime source. 
 
 
 #### 为什么可以使用javascript开发java版的Minecraft插件？
@@ -32,15 +32,15 @@ This is *PVPIN*, one based on JavaScript to write some JAVA code and using in th
 
 因为java运行环境中有一个javascript引擎，可以运行javascript代码。更重要的是，可以直接在javascript中调用java代码。这样，我们就可以用javascript来写“java”程序。
 
-Because the Java runtime environment have an JavaScript engine, it can run the JavaScript code. More importantly, you can directly using the Java code in javascript. In this way, we can use JavaScript to write "Java" program.
+Because the Java runtime environment have an JavaScript engine, it can run the JavaScript code. More importantly, you can directly using the Java code in JavaScript. In this way, we can use JavaScript to write "Java" program.
 
 ![结构](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg)
 
 这样做有以下几个好处：
 
-* 更简单，javascript是一门比java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
+* 更简单，JavaScript是一门比Java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
 * 互用性，因为是互用性语言，JavaScript可以被修改和使用在服务器运行中的代码。
-* javascript本身是一门性价比高的语言，值得一学。性＝用途广泛性（跨前后端与各种平台），价＝学习的代价（耗费时间与难易程度）
+* JavaScript本身是一门性价比高的语言，值得一学。性＝用途广泛性（跨前后端与各种平台），价＝学习的代价（耗费时间与难易程度）
 
 This has the following benefits:
 * JavaScript is a more simple language than JAVA. Learn faster, write the same function, and take less time;
@@ -51,7 +51,7 @@ This has the following benefits:
 
 ###### Pay attention 
 
-This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can be approved. and, the *PVPIN* is just maken for Chinese Minecraft Players. If you really want use *PVPIN* by English, please contact us! We will communicate this thing.                        
+This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can be approved. and, the *PVPIN* is just made for Chinese Minecraft Players. If you really want use *PVPIN* in English, please contact us! We will communicate this thing.                        
 You can contact us by "QQ" or "Mail". But, we have a Copyright statement.
 
 QQ member: 4740281 
@@ -160,10 +160,10 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 This project uses GPL V2 open source protocol for production, please follow this agreement in the relevant operations!
 
-if it is for commercial use, please declare copyright at the relevant location!
+If it is for commercial use, please declear copyright at the relevant location!
 
 Copyright 2017 PVPIN.com
 
-thanks again for your reading!
+Thanks again for your reading!
 
 		
