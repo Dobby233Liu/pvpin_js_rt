@@ -34,7 +34,7 @@ This is *PVPIN*, based on JavaScript to write some Java code and using in the Mi
 
 Because the Java runtime environment have an JavaScript engine, so it can run the JavaScript code. More importantly, you can directly using the Java code in JavaScript. In this way, we can use JavaScript to write "Java" program.
 
-<img src="https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg" align="center">
+<div align="center"><img src="https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg"></div>
 
 这样做有以下几个好处：
 
