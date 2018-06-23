@@ -13,7 +13,7 @@ __用拼积木的方式开发Minecraft插件__
 
 ### Pay attention 
 
-All English text in this README are not so well, because this just used machines to translation. If you're not really understand that all, I'm hope you can forgive me, and, if you can help me to improvement this, that I will thank you. [Well, click here to help me](mailto:i@timewk.cn).
+All English text in this README are not so well, because this just used machine translation. If you're not really understand that all, I'm hope you can forgive me, and, if you can help me to improvement this, that I will thank you. [Well, click here to help me](mailto:i@timewk.cn).
 
 #### Improvementer, maybe
 
@@ -52,7 +52,7 @@ This has the following benefits:
 ##### Pay attention 
 
 This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can be approved. and, the *PVPIN* is just made for Chinese Minecraft Players. If you really want use *PVPIN* in English, please contact us! We will communicate this thing.                        
-You can contact us by "QQ" or "Mail". But, we have a Copyright statement.
+You can contact us by QQ or E-mail. But, we have a Copyright statement.
 
 QQ member: 4740281 
 
@@ -78,7 +78,7 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 一、获取服务端包。
 
-> 这里有一个简单的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)
+这里有一个简单的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)
 		
 		
 下载后解压：
