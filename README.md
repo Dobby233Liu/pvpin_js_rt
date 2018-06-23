@@ -1,11 +1,13 @@
 <div align="center"><a href="http://pvpin.com"><img src="https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png"></a></div>
  
- ##### Please note the PVPIN's blocks are based from the [Google Blockly](https://github.com/google/blockly).
- 
+
 __用拼积木的方式开发Minecraft插件__
 
- Developing Minecraft plugins by building blocks like playing kids' game.
 
+__Developing Minecraft plugins by building blocks like playing kids' game.__
+
+ ##### Please note the PVPIN's blocks are based from the [Google Blockly](https://github.com/google/blockly).
+ 
 
 ## 介绍 
 
