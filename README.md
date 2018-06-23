@@ -22,9 +22,9 @@ All English text in this README are not so well, because this just used machines
 ### 这是什么 
 ##### What is this?
 
-这是*PVPIN*，一个基于JavaScript实现编写JAVA语言用于“我的世界”/“Minecraft”中的Bukkit服务端插件的一个网站使用的中等运行环境时(也就是前端)的源代码。
+这是*PVPIN*，一个基于JavaScript实现编写Java语言用于“我的世界”/“Minecraft”中的Bukkit服务端插件的一个网站使用的中等运行环境时(也就是前端)的源代码。
 
-This is *PVPIN*, based on JavaScript to write some Java code and using in the Minecraft's Bukkit server plugins, and there are the orignal runtime source. 
+This is *PVPIN*, based on JavaScript to write some Java code and using in the Minecraft's Bukkit server plugins, and this is the orignal runtime source. 
 
 
 #### 为什么可以使用JavaScript开发Java版的Minecraft插件？
