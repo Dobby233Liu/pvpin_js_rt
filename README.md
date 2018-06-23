@@ -87,7 +87,7 @@ Mail: [There](mailto:gangma@foxmail.com)
 
  ![解压](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_1.png)
 
-我们简要的解释一下压缩包里的这几个目录
+我们简要的解释一下压缩包里的这几个目录与文件：
 
 * plugins 目录：这里就是放插件的地方。这里已经放了一个NPC插件 citizens-2.0.21-SNAPSHOT，*PVPIN*的NPC功能直接调用了这个插件。
 * server.properties ：这是服务器的配置文件。你可以根据自己的需要修改，然后重启就可以生效。
