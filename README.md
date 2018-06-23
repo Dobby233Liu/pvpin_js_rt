@@ -1,4 +1,4 @@
-# [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
+  <div align="center"> [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/) </div>
  
  ##### Please note the PVPIN's blocks are based from the [Google Blockly](https://github.com/google/blockly).
  
