@@ -1,6 +1,6 @@
 # [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
  
- ###### Please note the PVPIN's blocks are based from the [Google Blockly](https://github.com/google/blockly).
+ ##### Please note the PVPIN's blocks are based from the [Google Blockly](https://github.com/google/blockly).
  
 __用拼积木的方式开发Minecraft插件__
 
@@ -24,15 +24,15 @@ All English text in this README are not so well, because this is just used machi
 
 这是*PVPIN*，一个基于JavaScript实现编写JAVA语言用于“我的世界”/“Minecraft”中的Bukkit服务端插件的一个网站使用的中等运行环境时(也就是前端)的源代码。
 
-This is *PVPIN*, one based on JavaScript to write some Java code and using in the Minecraft's Bukkit server plugins, and there are the orignal runtime source. 
+This is *PVPIN*, based on JavaScript to write some Java code and using in the Minecraft's Bukkit server plugins, and there are the orignal runtime source. 
 
 
-#### 为什么可以使用javascript开发java版的Minecraft插件？
-###### Why we can use JavaScript to develop java version of the Minecraft plugins
+#### 为什么可以使用JavaScript开发Java版的Minecraft插件？
+##### Why we can use JavaScript to develop Java version of the Minecraft plugins?
 
-因为java运行环境中有一个javascript引擎，可以运行javascript代码。更重要的是，可以直接在javascript中调用java代码。这样，我们就可以用javascript来写“java”程序。
+因为Java运行环境中有一个Javascript引擎，可以运行javascript代码。更重要的是，可以直接在javascript中调用java代码。这样，我们就可以用javascript来写“java”程序。
 
-Because the Java runtime environment have an JavaScript engine, it can run the JavaScript code. More importantly, you can directly using the Java code in JavaScript. In this way, we can use JavaScript to write "Java" program.
+Because the Java runtime environment have an JavaScript engine, so it can run the JavaScript code. More importantly, you can directly using the Java code in JavaScript. In this way, we can use JavaScript to write "Java" program.
 
 ![结构](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg)
 
@@ -49,7 +49,7 @@ This has the following benefits:
 
 #### 如何使用它?
 
-###### Pay attention 
+##### Pay attention 
 
 This part will not have English text because the *PVPIN* was not really have an English page, only Simplified Chinese seem like can be approved. and, the *PVPIN* is just made for Chinese Minecraft Players. If you really want use *PVPIN* in English, please contact us! We will communicate this thing.                        
 You can contact us by "QQ" or "Mail". But, we have a Copyright statement.
