@@ -30,7 +30,7 @@ This is *PVPIN*, based on JavaScript to write some Java code and using in the Mi
 #### 为什么可以使用JavaScript开发Java版的Minecraft插件？
 ##### Why we can use JavaScript to develop Java version of the Minecraft plugins?
 
-因为Java运行环境中有一个Javascript引擎，可以运行javascript代码。更重要的是，可以直接在javascript中调用java代码。这样，我们就可以用javascript来写“java”程序。
+因为Java运行环境中有一个JavaScript引擎，可以运行JavaScript代码。更重要的是，可以直接在JavaScript中调用Java代码。这样，我们就可以用JavaScript来写“Java”程序。
 
 Because the Java runtime environment have an JavaScript engine, so it can run the JavaScript code. More importantly, you can directly using the Java code in JavaScript. In this way, we can use JavaScript to write "Java" program.
 
@@ -110,9 +110,7 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 ![连接2](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_2_2.png)
 
-关于开服更详细的介绍请看czfy和aria的教程。 
-
-[点我啊](http://bbs.pvpin.com/topic/217)
+关于开服更详细的介绍请看[czfy和aria的教程](http://bbs.pvpin.com/topic/217)。
 
 #### 如何下载和运行在*PVPIN*上开发的插件？
 
