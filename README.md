@@ -91,7 +91,7 @@ Mail: [There](mailto:gangma@foxmail.com)
 
 * plugins 目录：这里就是放插件的地方。这里已经放了一个NPC插件 citizens-2.0.21-SNAPSHOT，*PVPIN*的NPC功能直接调用了这个插件。
 * server.properties ：这是服务器的配置文件。你可以根据自己的需要修改，然后重启就可以生效。
-* start.bat  ：这是启动服务的脚本。
+* start.bat、start.sh  ：这是启动服务的脚本。start.sh是给Mac用的。
 
 双击启动脚本start.bat (前提是你已经安装好了java8)，就可以看到启动消息了。
 
